@@ -1,0 +1,1 @@
+# PyCharm-Git_Integration
